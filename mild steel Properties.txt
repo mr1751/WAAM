@@ -1,0 +1,31 @@
+*Conductivity
+**Units in (mW/mm/K)		
+51.90,273.00
+51.10,373.00
+46.10,573.00
+41.05,723.00
+37.50,823.00
+35.60,873.00
+30.64,993.00
+26.00,1073.00
+29.45,1723.00
+*Density
+**Units in (tonne/mm^3)
+7.85e-9,
+*Latent Heat
+**Units (mJ/tonne)
+2.39e+08,1758.15,1798.15
+*Specific Heat
+**Units (mJ/tonne/K)	
+4.50e8,273.00
+4.99e8,373.00
+5.65e8,573.00
+6.30e8,723.00
+7.05e8,823.00
+7.73e8,873.00
+10.80e8,993.00
+9.32e8,1073.00
+4.37e8,1723.00
+
+https://www.researchgate.net/publication/257760415_Thermo-mechanical_and_experimental_analysis_of_double_pass_line_heating/download
+http://konsys-t.tanger.cz/files/proceedings/17/reports/2739.pdf
